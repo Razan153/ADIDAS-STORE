@@ -95,7 +95,30 @@ li a:hover {
 }
 .deep p{color: #777;}
 
-@media (min-width:767px){
-    .comm{flex-direction: column;}
-    .comm .deep{width: 100%;}
-    .deep p{width: 300px; margin-top: 25px;}}
+@media (min-width:767px) {
+    .con {
+        height:auto ;
+    }
+
+    .comm {
+        flex-direction: column;
+    }
+
+    .comm .deep {
+        width: 100%;
+    }
+
+    .comm .deep h1 {
+        margin-bottom: 15px;
+    }
+
+    .comm .deep p {
+        line-height: 1.2;
+        font-size: 20px;
+    }
+
+    .deep p {
+        width: 300px;
+        margin-top: 25px;
+    }
+}
