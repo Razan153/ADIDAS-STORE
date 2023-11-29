@@ -1,0 +1,38 @@
+<html>
+
+<head>
+    <title> temp66</title>
+    <link rel="stylesheet" href="./ADiDAS/css/style66.css">
+</head>
+
+<body>
+    <div class="con">
+        <nav>
+            <a href="#" class="logo">adidas</a>
+
+            <ul>
+                <li> <a href="#">Home</a></li>
+                <li> <a href="#">Men</a></li>
+                <li> <a href="#">Women</a></li>
+                <li> <a href="#">Kids</a></li>
+            </ul>
+        </nav>
+        <div class="comm">
+            <div class="deep">
+                <h1>adidas <br>
+                    egypt, running shoes</h1>
+                <p>This quote beautifully captures
+                    the essence of flowers, describing
+                    them as a form of music that emanates </p>
+            </div>
+            <div class="llo">
+                <img src="./ADiDAS/img/shoes.png">
+            </div>
+        </div>
+
+    </div>
+
+
+</body>
+
+</html>
